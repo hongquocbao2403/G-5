@@ -1,0 +1,1 @@
+from docx import Document  # python-docx để đọc DOCX
